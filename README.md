@@ -38,6 +38,9 @@ To download these new icons:
   - `npm install`
   - `node ./resources/tools/update-icons.js`
 
+Credit
+=======
+forked from crobi/rpg-cards
 
 license
 =======
